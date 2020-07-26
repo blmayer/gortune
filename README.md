@@ -3,7 +3,7 @@
 ![](https://travis-ci.org/blmayer/gortune.svg?branch=master)
 
 Another clone of the classic BSD fortune, this version, written in Go,
-contains all fortunesburried in the executable, so batteries are included.
+contains all fortunes burried in the executable, so batteries are included.
 
 
 ## Installing
@@ -38,6 +38,10 @@ At this moment the package provides the *Categories* variable, listing
 all available categories of fortunes. And a map named *List*, where the
 key is a category and it returns a list with all fortunes for that category,
 hence it is named so.
+
+## Comming soon
+
+- Command line options
 
 
 ## Credits
